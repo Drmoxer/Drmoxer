@@ -61,7 +61,7 @@ Acredito que o aprendizado deve ser **divertido, inclusivo e transformador**, e 
 
 💬 Me encontre para trocar ideias sobre tecnologia, educação e inovação!  
 📧 **drmoxer@gmail.com**  
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moisés-0077B5?style=flat&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/moisésfeitoza)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moisés%20Feitoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisésfeitoza)
  
 ---
 
