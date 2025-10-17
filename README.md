@@ -31,8 +31,6 @@ Acredito que o aprendizado deve ser **divertido, inclusivo e transformador**, e 
 
 #### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### 🧠 Conceitos
 > Lógica de Programação • Backend • Estruturas de Dados • Engenharia de Dados • Game Design
