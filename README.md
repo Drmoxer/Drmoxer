@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Moisés Feitoza!</h1>
+<h1 align="center">👋 Hey everyone, Meu nome é Moisés Feitoza!</h1>
 
 <p align="center">
-  🎓 Professor de Programação e Inglês | 💻 Apaixonado por Tecnologia, IA e Game Design  
+  🎓 Professor de Programação e Inglês | 💻 Apaixonado por Tecnologia, Educação e Game Design  
 </p>
 
 ---
